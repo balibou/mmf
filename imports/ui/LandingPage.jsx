@@ -17,7 +17,7 @@ export default class LandingPage extends Component {
                 <span className="icon-bar"></span>
                 <span className="icon-bar"></span>
               </button>
-              <a className="logo" href="index.html"><img src={LOGO_URL} alt="Logo" /></a>
+              <a className="logo" href="#"><img src={LOGO_URL} alt="Logo" /></a>
             </div>
             <div className="navbar-collapse collapse">
               <ul className="nav navbar-nav navbar-right">
@@ -32,7 +32,7 @@ export default class LandingPage extends Component {
           <div className="container">
             <div className="row">
               <div className="col-xs-6">
-                <a href="index.html"><img src={LOGO_URL} alt="Logo" /></a>
+                <a href="#"><img src={LOGO_URL} alt="Logo" /></a>
               </div>
               <div className="col-xs-6 signin text-right navbar-nav">
                 <a href="#pricing" className="scroll">Pricing</a>&nbsp; &nbsp;<a href="#">Sign in</a>
