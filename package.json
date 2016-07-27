@@ -5,6 +5,12 @@
     "start": "meteor run"
   },
   "dependencies": {
-    "meteor-node-stubs": "~0.2.0"
+    "meteor-node-stubs": "~0.2.0",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.1.1",
+    "eslint-plugin-react": "^5.2.2"
   }
 }
